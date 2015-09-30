@@ -32,6 +32,12 @@ all set).  I've tested with pysvn version 1.7.4, but again the usage
 of pysvn isn't very exotic, so earlier versions might work.  You
 should see the subversion notes below if you really want to use svn.
 
+## Requirements
+
+Pygments==2.0.2
+nose==1.3.4
+wsgiref==0.1.2
+
 ## Running
 
 The driver file is git_by_a_bus.py, which you should run with "python
