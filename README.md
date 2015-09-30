@@ -34,9 +34,11 @@ should see the subversion notes below if you really want to use svn.
 
 ## Requirements
 
-Pygments==2.0.2
-nose==1.3.4
-wsgiref==0.1.2
+* Pygments==2.0.2
+
+* nose==1.3.4
+
+* wsgiref==0.1.2
 
 ## Running
 
